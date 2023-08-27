@@ -10,12 +10,12 @@ from FallenRobot import BOT_NAME, BOT_USERNAME, OWNER_ID, telethn
 from FallenRobot.events import register
 
 LOGO_LINKS = [
-    "https://telegra.ph/file/d1838efdafce9fe611d0c.jpg",
+    "https://te.legra.ph/file/6d95830dde4a0d10f039e.jpg",
     "https://telegra.ph/file/c1ff2d5ec5e1b5bd1b200.jpg",
-    "https://telegra.ph/file/08c5fbe14cc4b13d1de05.jpg",
+    "https://te.legra.ph/file/21a940d07a48354b6e9a7.jpg",
     "https://telegra.ph/file/66614a049d74fe2a220dc.jpg",
     "https://telegra.ph/file/9cc1e4b24bfa13873bd66.jpg",
-    "https://telegra.ph/file/792d38bd74b0c3165c11d.jpg",
+    "https://te.legra.ph/file/f3a2243754642fa378b93.jpg",
     "https://telegra.ph/file/e1031e28a4aa4d8bd7c9b.jpg",
     "https://telegra.ph/file/2be9027c55b5ed463fc18.jpg",
     "https://telegra.ph/file/9fd71f8d08158d0cc393c.jpg",
