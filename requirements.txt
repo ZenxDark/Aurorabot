@@ -42,9 +42,4 @@ sqlalchemy==1.4.46
 telegraph==2.2.0
 telethon==1.29.3
 tgcrypto==1.2.5
-wikipedia==1.4.0
-Flask==1.1.2
-gunicorn==20.1.0
-Jinja2==3.0.3
-werkzeug==2.0.2
-itsdangerous==2.0.1
+wikipedia==1.4.
