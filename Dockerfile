@@ -77,4 +77,4 @@ ENV PATH="/home/bot/bin:$PATH"
 RUN pip3 install -U -r requirements.txt
 
 # Starting Worker
-CMD gunicorn app:app & python3 main.py
+CMD gunicorn app:app & python3 bot.py
