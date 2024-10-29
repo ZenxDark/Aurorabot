@@ -1,1 +1,1 @@
-worker: python3 -m FallenRobot
+web: python3 -m FallenRobot
